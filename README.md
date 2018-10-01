@@ -1,8 +1,6 @@
-# Personal-Website
+# My Personal Website at UCLA
 
-* Should be published on either [CS site](http://web.cs.ucla.edu/~patriciaxiao/) or [Bruin site](http://patriciaxiao.bol.ucla.edu/).
-
-* Still working on CS account issues. Personal Website under construction.
+* Should be published on both [CS site](http://web.cs.ucla.edu/~patricia.xiao/) and [Bruin site](http://patriciaxiao.bol.ucla.edu/).
 
 * Some useful links:
   * for Bruin site:
@@ -13,3 +11,9 @@
     * [General instruction](https://www.cs.ucla.edu/dcf-faqs/)
     * [SSH](https://www.cs.ucla.edu/secure-remote-login/)
     * [For engineering students](https://www.seasnet.ucla.edu/personal-website/), preabably similar
+    * The server hostname is lion.cs.ucla.edu. Your account name will be your CS account. SSH there any put your html files under home directory there.
+    * yourname@cs.ucla.edu, then your personal website would be http://web.cs.ucla.edu/~yourname/
+
+* Some tricks
+  * use Github to synch the website with server ([Tutorial](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/))
+  * I named this repository www just in case I forgot the setting rules listed in [General instruction](https://kb.ucla.edu/articles/setting-up-a-personal-website-at-ucla)
