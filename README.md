@@ -17,3 +17,4 @@
 * Some tricks
   * use Github to synch the website with server ([Tutorial](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/))
   * I named this repository www just in case I forgot the setting rules listed in [General instruction](https://kb.ucla.edu/articles/setting-up-a-personal-website-at-ucla)
+  * useful templates on [Colorlib](https://colorlib.com/wp/bootstrap-personal-website-templates/), including some [free](https://colorlib.com/wp/free-personal-website-templates/) ones.
