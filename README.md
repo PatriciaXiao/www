@@ -1,6 +1,6 @@
 # My Personal Website at UCLA
 
-* Should be published on both [My CS site](http://web.cs.ucla.edu/~patricia.xiao/) and [My Bruin site](http://patriciaxiao.bol.ucla.edu/).
+* Should be published on both [My CS site](http://web.cs.ucla.edu/~patricia.xiao/) and [My Bruin site](http://patriciaxiao.bol.ucla.edu/). Also available on [Github](https://patriciaxiao.github.io/www/).
 
 * Some useful links:
   * for Bruin site:
