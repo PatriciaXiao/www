@@ -2,6 +2,8 @@
 
 * Should be published on both [My CS site](http://web.cs.ucla.edu/~patricia.xiao/) and [My Bruin site](http://patriciaxiao.bol.ucla.edu/). Also available on [Github](https://patriciaxiao.github.io/www/).
 
+* After graduation, should be available on [Github Page](https://patriciaxiao.github.io/www/)
+
 * Some useful links:
   * for Bruin site:
     * [General instruction](https://kb.ucla.edu/articles/setting-up-a-personal-website-at-ucla)
